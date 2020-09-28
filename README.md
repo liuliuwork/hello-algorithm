@@ -2,13 +2,15 @@
 
 English version repo and Gitbook is on [english branch](https://github.com/geekxh/hello-algorithm/tree/english)
 
-> 小浩算法是我在疫情期间完成的一部图解算法题典！<b> 目前共完成 140+ 道高频面试算法题目，总计 40w 字，全部采用漫画图解的方式，简单易懂。拥有近 10w 读者！</b>
+> 小浩算法是我在疫情期间完成的一部图解算法题典！<b> 目前共完成 140+ 道高频面试算法题目，总计 40w 字，全部采用漫画图解的方式，简单易懂！</b> 
 >
 > [点击下载](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd)
 
 <div align="center">
-    <h6 style="background: azure; font-size: .85em;color: #000000;">最近发现我写的书被培训机构拿去卖钱了，右上角给个 star 支持一下，让更多人看到，助力原创！</h6>
-    <a href="https://www.geekxh.com"><img src="https://www.geekxh.com/logo_tmp_1.png" width="250px"></a>
+    <h5 style="background: azure; font-size: .85em;color: #000000;"> 扫码回复【进群】可加入我们的万人刷题学习群；回复【999】可直接下载该项目全部资源</h6>
+    <h5 style="background: azure; font-size: .85em;color: #000000;"> 包括：一千本开源电子书、各厂面经、百张思维导图、我写的图解算法题典 </h6>
+    <h5 style="background: azure; font-size: .85em;color: #000000;"> 如果你愿意支持我，可以给项目点个star，我会很感激！</h6>
+    <a href="https://www.geekxh.com"><img src="https://www.geekxh.com/code3.png"></a>
 </div>
 
 <p align="center">
@@ -22,56 +24,53 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 
 ### 本项目包括
 
-| 👀：[小浩算法图解题典](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd) |  |  |  |  
-| :---: | :---- | :--- | :--- |
-| 🚀：[大厂面经汇总指南](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) | [java](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Java) | [python](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python) | [前端](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E5%89%8D%E7%AB%AF) |
-| 🐒：[超清思维导图集锦](https://github.com/geekxh/hello-algorithm/tree/master/%E8%B6%85%E6%B8%85%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE100%E5%BC%A0) |  |  |  |
-| 📚：[超清电子书一千本](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) |  |  |  |
-| 💯：[专栏：剑指offer](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E5%89%91%E6%8C%87offer)|  |  |  |
+| 👀 [小浩算法图解题典](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd) | 🐒 [超清思维导图集锦](https://github.com/geekxh/hello-algorithm/tree/master/%E8%B6%85%E6%B8%85%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE100%E5%BC%A0) | 📚 [超清电子书一千本](https://github.com/geekxh/hello-algorithm/tree/master/%E6%B8%85%E6%99%B0%E7%89%88%E7%94%B5%E5%AD%90%E4%B9%A61000%E6%9C%AC) | 🚀 [大厂面经汇总指南](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87) |  
+| :--- | :---- | :--- | :--- |
+| 🍇 [面试：Java](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Java) | 🍉 [面试：Python](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Python) | 🍅 [面试：前端](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E5%89%8D%E7%AB%AF) | 🍄 [面试：Mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/Mysql) |
+| 🍖 [面试：架构师](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/%E6%9E%B6%E6%9E%84%E5%B8%88) | 🌽 [面试：C](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B) | 🍏 [面试：C++](https://github.com/geekxh/hello-algorithm/tree/master/%E5%A4%A7%E5%8E%82%E9%9D%A2%E7%BB%8F%E6%B1%87%E6%80%BB100%E7%AF%87/C%26C%2B%2B) | 🍐 [面试：机器学习]() |
+| 👺 [专栏：学习os](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)| 📺 [专栏：学习linux](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Linux) | 🎅 [专栏：学习mysql](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/Mysql) | 📡 [专栏：学习网络](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C) |
+| 🆎 [专栏：学习设计模式](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)| 📝 [专栏：学习剑指offer](https://github.com/geekxh/hello-algorithm/tree/master/%E4%B8%93%E6%A0%8F/%E5%89%91%E6%8C%87offer) |  |  |
 
 
 ### 使用指南
 
 1、因为本教程完全免费，但现在被一些不良商家拿去卖钱，<b> 所以我需要你先帮我点一个 star </b>，助力原创，防止更多人上当受骗，也顺便支持我一下。
 
-2、如果你想直接下载我的这本电子书，[点击这里就行](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd)
+2、如果你想直接下载全部内容，[点击这里就行](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd)
 
-3、如果你还想加入我们的<b>万人刷题群</b>，和我们一起交流，遇见更优秀的人。请下方扫码回复【进群】
+3、如果你还想加入我们的<b>万人刷题群</b>，和我们一起交流，遇见更优秀的人。
 
 <div align="center">
-    <a href="https://www.geekxh.com/code.png" style="box-shadow: rgb(210, 210, 210) 0em 0em 0.5em 0px; font-size: 17px;"><img src="https://www.geekxh.com/code.png" width="250px"></a>
+    <a href="https://www.geekxh.com/code.png" style="box-shadow: rgb(210, 210, 210) 0em 0em 0.5em 0px; font-size: 17px;"><img src="https://www.geekxh.com/code.png" width="200px"></a>
 </div>
 
 4、当然，也许你就想加我的私人微信: [个人名片](https://www.geekxh.com/contact.jpeg)
 
-5、本项目还包括：a、100 张超清思维导图 b、100 篇大厂面试面经 c、100 本清晰版电子书 
-
 注：<b>资料不要贪多，找到适合自己的才重要。</b> 
 
+### 其他资料推荐
 
-### 获取全部内容方式（任选其一）
+很多人让我推荐算法视频，我就帮大家找了一个，是前 Facebook 工程师的一个算法视频，主要是应对<b>算法面试</b>。**该视频虽为付费视频，但价格只要9块。**
+非常适合基础差的同学。[【点击获取】](https://u.geekbang.org/subject/prioralgorithm?gk_cus_user_wechat=university&utm_source=kolxiaohaosuanfagithub&utm_medium=0911&utm_term=kolxiaohaosuanfagithub0911)
 
-1、通过网站下载（推荐，网速快）：[下载地址](https://www.geekxh.com/0.0.%E5%AD%A6%E4%B9%A0%E9%A1%BB%E7%9F%A5/03.html?3pVd)
 
-2、直接通过 github clone 项目。（国内不推荐）
+<img src="https://www.geekxh.com/geek-4.jpg" width="700px"><br/>
 
-3、[点击扫码回复【999】通过百度云盘下载](https://www.geekxh.com/code.png)
+下面是另外两个资源：第一个是多线程专项提高，第二个是适合大学生的java就业课。
 
-### 算法资料推荐
+<div>
+    <a href="http://s1.mashibing.com:8012/showimgcodeone?obj=g&pathId=7" style="float:left;width:50%"><img src="https://www.geekxh.com/ad-3.jpg" width="400px" /></a>
+    <a href="https://mp.weixin.qq.com/s/QMgxrVI1CS0gkMlqmG5C8Q" style="float:left;width:50%"><img src="https://www.geekxh.com/ad-2.jpg" width="400px" /></a>
+</div>
 
-很多人让我推荐算法视频，我就帮大家找了一个，是前 Facebook 工程师的一个算法视频，主要是应对<b>算法面试</b>。**该视频为付费视频。**
-对于基础差的同学，看视频不失为一种效率更高的方法，大家可以尝试学学看。[【点击获取】](https://u.geekbang.org/subject/prioralgorithm?gk_cus_user_wechat=university&utm_source=xiaohaosuanfaguanggao&utm_medium=0731&utm_term=xiaohaosuanfaguanggao0731)
-
-<img src="https://www.geekxh.com/geek-3.png"><br/>
-
-<b>另外，我这里再推荐几本算法书籍，大家可以尝试学习</b>
+<b>我这里再推荐几本算法书籍，大家可以尝试学习</b>
 
 | 书籍名 | 介绍 |
-|---|---|
-| 《算法4》 | 主要是基础知识，对排序，查找，图，字符串讲解的图非常经典。适合初学者。 |
-| 《剑指offer》 | 在有一定刷题经验后进行自我学习。初学者可以先看看上面的视频，掌握常见题目思路后再进行学习。 |
-| 《算法导论》 | 很有名很经典，但更多被用来当作资料查阅，不建议初学者通读。 |
-| 《算法引论》 | 从设计算法的角度思考问题，难度颇大，不适合初学者。 |
+|------|------|
+| 算法4 | 主要是基础知识，对排序，查找，图，字符串讲解的图非常经典。适合初学者。 |
+| 剑指offer | 在有一定刷题经验后进行自我学习。 |
+| 算法导论 | 很有名很经典，但更多被用来当作资料查阅，不建议初学者通读。 |
+| 算法引论 | 从设计算法的角度思考问题，难度颇大，不适合初学者。 |
 
 ### 内容展示
 
@@ -273,3 +272,7 @@ English version repo and Gitbook is on [english branch](https://github.com/geekx
 | 63、左旋转字符串 | [Left Rotate String](./专栏/剑指offer/58_02_LeftRotateString) |
 | 64、滑动窗口的最大值 | [Max In Sliding Window](./专栏/剑指offer/59_01_MaxInSlidingWindow) |
 | 65、扑克牌的顺子 | [Continous Cards](./专栏/剑指offer/61_ContinousCards) |
+
+### License
+
+本项目除部分引用开源技术文档的内容外，大部分为本人原创！欢迎任何以学习为目的的传播，但未授权任何平台进行转载！
